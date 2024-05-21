@@ -17,7 +17,7 @@ To get started with the E-commerce PHP project, follow these steps:
    ```[
    git clone https://github.com/js-engineer100/ecommerce_php.git
    ```
-2. Import the database schema provided in the `ecommm.sql` file.
+2. Import the database schema provided in the `ecomm.sql` file.
 3. Configure the database connection in `config/database.php`.
 4. Start your local server (e.g., Apache, Nginx) and navigate to the project directory in your browser.
 
